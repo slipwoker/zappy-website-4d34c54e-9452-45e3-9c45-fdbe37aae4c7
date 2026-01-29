@@ -1,0 +1,53 @@
+# NPY — Generative Engine Optimization Map
+
+> A פסיכולוגיה ותודעה business.
+
+---
+
+## Pages
+
+### Home
+https://npy-4d34c54e.zappy5.app
+
+### About
+https://npy-4d34c54e.zappy5.app/about
+
+### Experiences
+https://npy-4d34c54e.zappy5.app/experiences
+
+### Contact
+https://npy-4d34c54e.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://npy-4d34c54e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://npy-4d34c54e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://npy-4d34c54e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About NPY
+NPY is a business in the פסיכולוגיה ותודעה industry.
+
+## Target Audience
+אנשים המחפשים הבנה עמוקה יותר של עצמם ושל תודעה אנושית
+
+## Industry
+פסיכולוגיה ותודעה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://npy-4d34c54e.zappy5.app/sitemap.xml
+- **Robots.txt**: https://npy-4d34c54e.zappy5.app/robots.txt
